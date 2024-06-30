@@ -1,0 +1,25 @@
+
+Folder structure: 
+
+Compoments/
+    Component/
+        Component.jsx
+        Component.css
+    Component/
+        Component.jsx
+        Component.css
+App.jsx
+App.css
+main.jsx
+
+what have we done...?
+
+-matrix is tied with the buttons
+-added images for X and O
+-found i, j from an id
+
+to do:
+
+-fix image styles (done)
+-fix something that is broken now (done)
+-game logic
